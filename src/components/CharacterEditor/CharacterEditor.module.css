@@ -37,4 +37,14 @@ margin:0px;
 }
 
 .controlColumn {
+  max-width: 75%;
+margin:0px;
+}
+
+.greySquare{
+  background-color: lightgrey;
+  width: 100vw;
+  height: 40vh;
+  position: fixed;
+  top: 60%;
 }
